@@ -1,4 +1,13 @@
 <h4>c lang execution result ↓</h4>
+<h6>Factorial</h6>
 <div>
-<img width="330" src=https://user-images.githubusercontent.com/48314766/85197893-0d7ee700-b31f-11ea-8a51-699fa858ff58.JPG></img>
+<img width="240" src=https://user-images.githubusercontent.com/71743128/103737000-b29bab80-5034-11eb-9cc1-7450723497db.JPG></img>
+</div>
+<br><h6>GCD_LCM</h6>
+<div>
+<img width="300" src=https://user-images.githubusercontent.com/71743128/103737011-b4fe0580-5034-11eb-8e7e-63bfdff85db4.JPG></img>
+</div>
+<br><h6>TowerOfHanoi</h6>
+<div>
+<img width="250" src=https://user-images.githubusercontent.com/71743128/103737022-b7605f80-5034-11eb-87da-6ef0193b38c0.JPG></img>
 </div>
